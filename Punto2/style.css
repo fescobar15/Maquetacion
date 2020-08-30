@@ -1,0 +1,26 @@
+* {
+  text-align: center;
+}
+
+.jumbotron,
+footer {
+  background-color: brown;
+  color: white;
+  margin-bottom: 0px;
+}
+
+.left-menu {
+  background-color: orange;
+}
+
+.top-menu {
+  background-color: burlywood;
+}
+
+.photo-odd {
+  background-color: palevioletred;
+}
+
+.photo-even {
+  background-color: lightseagreen;
+}
